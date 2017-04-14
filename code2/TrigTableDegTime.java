@@ -14,7 +14,7 @@ class TrigTableDegTime {
 		// end of time calculation
 		String un = "UN";
 		System.out.println("radian measurement is represented as rad");
-		System.out.println("\trad \t|\tcos\t|\tsin\t|\ttan" );
+		System.out.println("\tdeg \t|\tcos\t|\tsin\t|\ttan" );
 		System.out.println("----------------------------------------------------------------------" );
 		// 9 223 372 036 854 775 807   18446744073709551614
 		// compile then change 2147483648 to 2147483647
